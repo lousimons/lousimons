@@ -1,26 +1,21 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Louis Simon Crisolo
 <a href="https://www.linkedin.com/in/simon-crisolo-59a54731b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a proud graduate of Adamson University, where I earned my Bachelor’s degree in Information Technology. My academic journey has equipped me with a solid foundation in database management, and network security. I am passionate about leveraging technology to solve real-world problems and continuously seek opportunities to expand my skills. With a strong commitment to innovation and collaboration, I am excited to contribute to dynamic projects that make an impact in the tech industry.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My exploration of Information technology (IT) has sparked a strong interest in cybersecurity, and I am now enthusiastic about moving into this field. I specifically aim to become a Tier 1 Analyst within a Security Operations Center (SOC).
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Darktrace Monitoring                          | <a href="https://darktrace.com/">Darktrace</a>|
+| Google Administration Management              | <a href="https://google.com">Detection Lab</a>|
+| Migrating Files from google to Microsoft      | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| IT tech Support                               | SOC Automation Lab|
+| Computer reformat and report                  | SOC Automation Lab|
+| Database Management (SQL)                     | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
