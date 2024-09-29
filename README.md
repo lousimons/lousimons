@@ -18,7 +18,9 @@ My exploration of Information technology (IT) has sparked a strong interest in c
 | Database Management (SQL)                     | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+1. Google Administration Management
+2. Microsoft Administration Management
+3. 
 
 ### Network
 <div>
@@ -35,9 +37,8 @@ My exploration of Information technology (IT) has sparked a strong interest in c
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://companieslogo.com/img/orig/DARK.L_BIG-a3e87222.png?t=1637460614" alt="Darktrace Logo" style="width:100px;height:auto;" />
+   
 </div>
 
 ## Certifications
